@@ -24,22 +24,32 @@ body{
     background-color:#9CAF88;
     text-shadow: 2px 2px #B99470;
     color: blue;
-    padding: 10px;
+    padding: 8px;
     text-align: center;
     font-size: 22px;
 }
 .fields {
-    padding: 10px 20px;
+    padding: 8px 22px;
     display: flex;
     justify-content: space-between;
 }
+
+ .imageContainer img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid #4690ff;
+    margin: 10px auto;
+    display: block;
+}
+
 .fields > label {
 font-size: 18px;
 overflow: auto;
 }
 .btn    {
          display: block;
-         margin: 20px auto;
+         margin: 50px auto;
          padding: 10px 20px;
          background-color: #4690ff;
          border: 2.5px solid black;
@@ -104,5 +114,29 @@ img {
      .btn3{
         display: none;
     }
+    .fields {
+        padding: 8px 22px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .imageContainer img {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        border: 2px solid red;
+        margin: 10px auto;
+        display: block;
+    }
+    body{
+        background-color:orange;
+       }
+       .title{
+        text-decoration: solid black;
+        background-color:#6EACDA;
+        text-shadow: 2px 2px #B99470;
+        color: blue;
+        padding: 8px;
+        text-align: center;
+        font-size: 22px;
 }
-
+}
