@@ -6,7 +6,7 @@
     <title>Student Details</title>
     <link rel="stylesheet" href="./index.css">
 </head>
- <body>
+<body>
     <div class="container">
         <div class="box formInputs">
             <h3 class="title">STUDENT DETAILS</h3>
@@ -36,6 +36,10 @@
                     <input id="contact" type="number"/>
                 </div>
                 <div class="fields">
+                    <label for="imageUpload" id="imgupload"> Add Image:</label>
+                    <input id="imageUpload" type="file" accept="" />
+                </div>
+                <div class="fields">
                     <button class="btn btn1" type="button" onclick="updateCard()">Submit</button>
                     <button class="btn btn2" type="button" onclick="clearAll()">Clear</button>
                 </div>
@@ -44,7 +48,7 @@
         <div class="box card">
             <h3 class="title" id="schoolNameVal">SCHOOL NAME</h3>
             <div class="imageContainer">
-            <img src="./image/image.png" alt="Student Profile" />
+                <img id="profileImage" src="./User free icons designed by bqlqn.jpeg" alt="" />
             </div>
             <div class="fields">
                 <label>Student Name:</label>
@@ -71,11 +75,9 @@
                 <label id="contactNoVal">1234554321</label>
             </div>
 
-            <button 
-                class="print btn3" type="button" onclick="printIdcard()">Print Id Card
-            </button>
-          </div>
-           <script src="./index.js"></script>
-   </div>
-  </body>
+            <button class="print btn3" type="button" onclick="printIdcard()">Print Id Card</button>
+        </div>
+        <script src="./index.js"></script>
+    </div>
+</body>
 </html>
