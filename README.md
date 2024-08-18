@@ -61,10 +61,9 @@ If you'd like to contribute, please fork the repository and create a pull reques
 Feel free to use and modify this project. Credit is appreciated if you find it useful.
 
 ## 📷 Screenshots
-![Screenshot (163)](https://github.com/user-attachments/assets/6f28d867-20ca-47c5-96fb-a13b89ee593e)
-![Screenshot (162)](https://github.com/user-attachments/assets/bb2b586b-b957-490b-9c47-0d4afcde6a86)
-![Screenshot (161)](https://github.com/user-attachments/assets/a78d1ce6-8243-43c9-96f6-c7f63c50078b)
-![Screenshot (160)](https://github.com/user-attachments/assets/83c1bb80-cc5a-432b-a036-5648adf40e7e)
+![Screenshot (168)](https://github.com/user-attachments/assets/40354f7c-202f-47f9-9625-4abb1f0c465f)
+![Screenshot (169)](https://github.com/user-attachments/assets/4c834f81-58f0-4b3b-82e4-3e08ba435f69)
+![Screenshot (170)](https://github.com/user-attachments/assets/286294ba-c2d7-4e95-bfa3-5a92486f8722)
 
 ## 📬 Contact
 
